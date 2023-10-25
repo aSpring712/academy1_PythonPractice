@@ -1,0 +1,1 @@
+print('Temp.py __name__ : ', __name__) # 자기 자신은 __main__ 이라고 출력함
